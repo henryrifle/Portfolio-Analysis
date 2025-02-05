@@ -25,7 +25,7 @@ from functools import lru_cache
     Put that file in the same directory as this file.
 """
 SCOPES=["https://www.googleapis.com/auth/spreadsheets"]
-SPREADSHEET_ID="1dZgLXV8w_2cZ5UQNf1jPJXl-fIbVTJ0B5Y6wZ3mqPXo"
+SPREADSHEET_ID="" #update your spreadsheet here
 
 # Cache for dividend data to avoid rate limiting
 @lru_cache(maxsize=1000)
