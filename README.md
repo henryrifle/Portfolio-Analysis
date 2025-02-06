@@ -22,10 +22,10 @@ A Portfoilo Analysis that uses google sheets API to read your portfoilo and give
 -Also make sure to carefully look at comments to see where you would make the program work for your own stock portfoilo
 
 ## Features
--**FIRE Calculator**
--**Compound Interest Calculator**
--**Fair Value Stock Analysis**
--**Portfoilo Outlook**
+- **FIRE Calculator**
+- **Compound Interest Calculator**
+- **Fair Value Stock Analysis**
+- **Portfoilo Outlook**
 
 ## Future Scope
 - **Implement this program into a webpage to make it more accessiable to users**
